@@ -28,3 +28,16 @@ this is the first task of the course
 
 # Domain
 Managers struggle to track vacation time because employees report to multiple managers. The old manual process is slow and burdens the HR department. Additionally, employees struggle to manage their time off because they aren't experts in complex company leave policies.
+
+#ERD
+
+<img width="959" height="646" alt="image" src="https://github.com/user-attachments/assets/3253b867-b149-46b0-9cea-347f8e0a7d36" />
+
+# Flowchart
+
+<img width="794" height="644" alt="image" src="https://github.com/user-attachments/assets/16ae8d7e-be6e-480a-ba55-c73e10c03e9a" />
+
+
+# Sequence diagram
+
+<img width="819" height="639" alt="image" src="https://github.com/user-attachments/assets/c91b4aea-a513-42b3-8e70-6784da5b60e0" />
