@@ -51,4 +51,19 @@
       }
 
 
-      <img width="1164" height="648" alt="image" src="https://github.com/user-attachments/assets/ff88d0d1-8b56-4145-85b0-f56cd1d4ab10" />
+# state machine
+
+<img width="1141" height="631" alt="image" src="https://github.com/user-attachments/assets/f7917dae-c684-4748-b47a-2fd30252c168" />
+
+# sequence diagram
+
+<img width="1335" height="951" alt="image" src="https://github.com/user-attachments/assets/a900a457-b801-4d2e-8102-bdb2feb58b53" />
+
+# Flowchart
+
+<img width="704" height="917" alt="image" src="https://github.com/user-attachments/assets/2148381c-7b39-443f-941c-0e94f657ac8f" />
+
+# sequence diagram
+
+<img width="911" height="415" alt="image" src="https://github.com/user-attachments/assets/da7e69fd-0fbe-4bd8-bb6f-d6295ca346e2" />
+
