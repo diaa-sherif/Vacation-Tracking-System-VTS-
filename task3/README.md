@@ -59,12 +59,16 @@ use task1;
 
 <img width="1096" height="701" alt="image" src="https://github.com/user-attachments/assets/064c16c3-5833-4ab5-bdb9-b57421d89895" />
 
-# daily report
+# total daily revenue 
 
 SELECT order_date, sum(total_amount) FROM orders
 group by order_date
-having order_date = '1946-01-23'
 order by order_date;
+
+# total revenue for a specific date
+SELECT order_date, sum(total_amount) FROM orders
+where order_date = '1946-01-23'
+
 
 
  
